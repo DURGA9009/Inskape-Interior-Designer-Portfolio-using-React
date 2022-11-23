@@ -1,0 +1,183 @@
+{
+  "Header": {
+    "title": "Make room for Better Living..."
+  },
+  "About": {
+    "paragraph": "At Inskape we bring together the functionality and aesthetics to provide homeowners with customized and efficient home designs. Our designers are specialised in home interior design and home décor and we work with a vision of creating your  dream personalised space suiting your lifestyle.From sophisticated living room designs to space-saving  and clutter-free interior designs, everything at a single destination … Inskape We are here to help you create your best personalised space matching your style and needs.Explore thousands of inspiring interior designs or get  a free estimate … it's all here at Inskape, your one destination for all home interiors.",
+    "Why": [
+      "Experienced designers",
+      "On time delivery",
+      "Guaranteed products "
+      
+    ],
+    "Why2": [
+      "Reasonable Prices",
+      "Easily Customizable Plans",
+      "800+ happy customers"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Designs",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Designs",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Designs",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Designs",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Designs",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Designs",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Designs",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Designs",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Designs",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Wish design-Ambur",
+      "text": "Name : Vinduja chandran Contact : 8056605417" 
+    
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "HomeLoad Interiors-Tirunelveli",
+      "text": "Name : DSahana Contact : 8056605417"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Cloud9 Interiors-Coonor",
+      "text": "Name : Harsh Contact : 8770177321"
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "A@Decor-Karur",
+      "text": "Name : Bharathi Contact : 8058842897"
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "FlyHigh Designs-Villupuram",
+      "text": "Name : Kiran Contact : 9363574029"
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Pieshare Decor -Ramanathapuram",
+      "text": "Name : Tarun Eshwar Contact : 7010071577"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"I absolutely loved the work. I would definitely recommend Inskape.The best part is that they clearly understood our requirements and budget, and provided the best possible home.\"",
+      "name": "Kavin"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"High quality products are used overall in the project. Feedbacks and concerns if any were solved immediately.\"",
+      "name": "Kamalesh Govindaraj"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Inskape’s experience centre had a collection of creative designs and our search for a home interior firm ended here. We were happy with flawless execution and timely customer interaction\"",
+      "name": "Gowshigan "
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Inskape has made our flat into a home, a home which we always wanted. They understood us and gave us our dream home. The journey with them has been an amazing and smooth one for sure.\"",
+      "name": "Threshika"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Getting our house interior done by Inskape is one of the wonderful decision which we had taken. It was extremely thoughtful decision and I am pleased to admit that they didn’t disappoint a bit.\"",
+      "name": "Bharath Vishwa"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"It was really good to get my home interior done by Inskape and was really great to get it completed before 8 days of actual handover date...Good Job Guys...Really appreciate Kaviya and the team for their hard work and dedication.\"",
+      "name": "Anu Venkat"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Michael Dsouza",
+      "job": "35 years of HomeDecor experience"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Chris",
+      "job": "Renowned 3D Visualizer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Michelle",
+      "job": "Technical Designer specialised in CAD Drafts"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Nikitha Gandhi",
+      "job": "5+ years of experience as CDO "
+    }
+  ],
+  "Contact": {
+    "address": "43,CHB Colony, Tiruchengode, Namakkal", 
+    "phone": "+91 9988766543",
+    "email": "info@inskape.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Reach Us",
+      "text": "Mail us and us know what you desire"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Liaise",
+      "text": "Choose your designers and let us know"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Catch up",
+      "text": "Connect to your desire"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Establish",
+      "text": "Let the magic of design begin"
+    }
+  ]
+}
